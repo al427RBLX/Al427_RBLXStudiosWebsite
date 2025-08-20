@@ -1,3 +1,11 @@
 .Logo {
     transform: translateY(-2px);
 }
+
+.btn-bd-primary {
+    font-family: Clarkson;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 250px;
+ }
