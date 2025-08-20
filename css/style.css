@@ -3,8 +3,5 @@
 }
 
 .btn-primary {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    position: fixed;
+    position: relative;
 }
