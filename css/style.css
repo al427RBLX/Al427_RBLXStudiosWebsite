@@ -1,3 +1,7 @@
 .Logo {
     transform: translateY(-2px);
 }
+
+.btn-primary {
+position: fixed;
+}
