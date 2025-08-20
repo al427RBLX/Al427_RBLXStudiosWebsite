@@ -2,6 +2,6 @@
     transform: translateY(-2px);
 }
 
-.btn-primary {
-    position: center;
+.btn-bd-primary {
+    position: fixed;
 }
