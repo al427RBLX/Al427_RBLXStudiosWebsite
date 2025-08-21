@@ -3,9 +3,9 @@
 }
 
 .btn-bd-primary {
-    font-family: Clarkson;
-    justify-content: center;
+    display: flex;
     align-items: center;
+    justify-content: center;
     text-align: center;
     height: 250px;
  }
